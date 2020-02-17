@@ -16,3 +16,8 @@ Markdown can also be helpful to present information or to add photos or link web
 2. is a more
 3. organized
 4. numbered list.
+
+1. You can also
+  - mix things up
+    - and get creative.
+
