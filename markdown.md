@@ -21,3 +21,12 @@ Markdown can also be helpful to present information or to add photos or link web
   - mix things up
     - and get creative.
 
+Here's a basic reference sheet to help you get stated with markdown!
+- `#` creates a heading, making text larger and more prominant
+  -`#` is the largest and `######` is the smallest header
+- `**` wrapped around text will make it **bold**
+- `*` wrapped around text will add *italics*
+- `***` wrapped around text will add ***all three***
+- `-` preceding a line of text will make an unordered list
+- `1.` preceding a line of text will turn it into a numbered, ordered list.
+- 
