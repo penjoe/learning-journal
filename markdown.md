@@ -23,7 +23,7 @@ Markdown can also be helpful to present information or to add photos or link web
 
 Here's a basic reference sheet to help you get stated with markdown!
 - `#` creates a heading, making text larger and more prominant
-  -`#` is the largest and `######` is the smallest header
+  - `#` is the largest and `######` is the smallest header
 - `**` wrapped around text will make it **bold**
 - `*` wrapped around text will add *italics*
 - `***` wrapped around text will add ***all three***
