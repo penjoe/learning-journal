@@ -31,3 +31,4 @@ Here's a basic reference sheet to help you get stated with markdown!
 - `1.` preceding a line of text will turn it into a numbered, ordered list.
 - `>` can be used to quote someone
 - `[]` around text and `()` around a web address will insert a link to that page
+
