@@ -24,4 +24,4 @@ And just as a little bonus, remember that [Google](https://www.google.com) is yo
 My name is Joe Pennock and I've recently decided to give up being a truck driver and try my hand at a career in tech. I've always been a little on the nerdy side but never saw myself as a "techy" guy. Finally, enough friends that work in the tech industry rubbed off on me and here I am! Sitting in Code 102 at Code Fellows! Excited to get this journey started and see how high I can make it! 
 
 Check out my [Github](https://github.com/penjoe) profile and see what I'm up to!
-https://github.com/penjoe
+[https://github.com/penjoe](https://github.com/penjoe)
