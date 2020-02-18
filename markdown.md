@@ -1,5 +1,7 @@
 # What is Markdown?
 
+[Table of Contents](https://penjoe.github.io/learning-journal/table-ofocontents) | [My Learning Journal](https://penjoe.github.io/learning-journal/) | [Tools of the Trade](https://penjoe.github.io/learning-journal/coders-computer)
+
 Markdown is a quick and easy way to edit text on the web. It uses various aplhaneumeric symbols and characters to spice up plain, boring text. It can also be used to help organize text into simple lists, insert images and link URL's. It's a fairly simple tool that anyone can learn to use. Say I wanted to make a word **bold** or *Italic*, or ***both***, simply adding a few characters around what I want to change is all that's needed.
 
 To help emphasize a word, simply use `*` to make text *italicized*, `**` to make words **bold**, or both together to really hit your point ***home*** like this:
