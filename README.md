@@ -2,7 +2,7 @@
 
 A place for me to begin my code learning journey!
 
-[Table of Contents](https://penjoe.github.io/learning-journal/table-ofocontents) | [What is Markdown?](https://penjoe.github.io/learning-journal/markdown) | [Tools of the Trade](https://penjoe.github.io/learning-journal/coders-computer)
+[Table of Contents](https://penjoe.github.io/learning-journal/table-of-contents) | [What is Markdown?](https://penjoe.github.io/learning-journal/markdown) | [Tools of the Trade](https://penjoe.github.io/learning-journal/coders-computer)
 
 ## What Growth Mindset?
 
