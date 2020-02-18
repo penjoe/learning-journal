@@ -2,6 +2,8 @@
 
 A place for me to begin my code learning journey!
 
+[Table of Contents](https://penjoe.github.io/learning-journal/table-ofocontents) | [What is Markdown?](https://penjoe.github.io/learning-journal/markdown) | [Tools of the Trade](https://penjoe.github.io/learning-journal/coders-computer)
+
 ## What Growth Mindset?
 
 There are basicaly two different mindsets when it comes to learning:
