@@ -1,0 +1,6 @@
+# Tools of the Trade
+
+Modern developers use a wide array of tools, some that allow them to complete their tasks and some that add convenience and efficiency, and then some do both. One of the most fundamental tools in a developer's arsenal is a text editor. A text editor is exactly that - a program used to edit text. These come in all shapes and sizes. Some will be very bare bones and only allow the minimum. Others can be quite robust and be packed with lots of helpful and convenient features. There are essentially three types of text editors available to developers:
+  1. General text editors such as notepad, Microsoft Word, Apple Pages and Google Docs. These can be used for basic coding, but they offer no support.
+  2. Coding-specific text editors such as Atom, Notepad ++, Sublime Text and VSCode. These are robust text editing applications that have features ssuch as code completion, syntax highlighting and extesions that can be added for more functionality. These are a go to for any developer.
+  3. IDE or Integrated Development Environments. These are more of a suite of various coding softewares all wrapped up in one convenient package. They will often include a text editor, a debugger, a code compiler and other handy features useful to a busy developer. 
