@@ -1,6 +1,6 @@
 # Structuring pages with HTML
 
-| [Table of Contents](https://penjoe.github.io/learning-journal/) | [Growth Mindset](https://penjoe.github.io/learning-journal/growth-mindset) | [Markdown](https://penjoe.github.io/learning-journal/markdown) | [Tools of the Trade](https://penjoe.github.io/learning-journal/coders-computer) | [Get Started with Git!](http://penjoe.github.io/learning-journal/git) |
+| [Table of Contents](https://penjoe.github.io/learning-journal/) | [Growth Mindset](https://penjoe.github.io/learning-journal/growth-mindset) | [Markdown](https://penjoe.github.io/learning-journal/markdown) | [Tools of the Trade](https://penjoe.github.io/learning-journal/coders-computer) | [Get Started with Git!](http://penjoe.github.io/learning-journal/git) | [Styling with CSS](http://penjoe.github.io/learning-journal/css) |
 
 First off, what is HTML? HTML stands for **H**yper **T**ext **M**arkup **L**anguage. It's a code language used primarilly for building web sites. Just about any web page out there has a bare bones foundation written in HTML. And although it has been around for a very long time, it still remains the standard for web development. It may not make a web page very fancy or add many cool features, but without HTML those cool features would never happen. Now that we know what HTML is, how do we use it? It's time to start writting some code!
 
