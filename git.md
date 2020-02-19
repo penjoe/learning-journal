@@ -1,6 +1,6 @@
 # Get Started with Git!
 
-| [Table of Contents](https://penjoe.github.io/learning-journal/) | [Growth Mindset](https://penjoe.github.io/learning-journal/growth-mindset) | [What is Markdown?](https://penjoe.github.io/learning-journal/markdown)  |  [Tools of the Trade](https://penjoe.github.io/learning-journal/coders-computer) |
+| [Table of Contents](https://penjoe.github.io/learning-journal/) | [Growth Mindset](https://penjoe.github.io/learning-journal/growth-mindset) | [What is Markdown?](https://penjoe.github.io/learning-journal/markdown)  |  [Tools of the Trade](https://penjoe.github.io/learning-journal/coders-computer) | [HTML Structure](https://penjoe.github.io/learning-journal/html-structure) |
 
 Git is a robust yet lightweight version control system that developers use to keep track of their projects locally. It keeps a record of any changes made and allows messages to be inserted detailing why a change was made. It can easily be used in tandem with GitHub or a local network to seamlessly collaborate on projects. Git is a great tool that is widely used in the industry to keep projects from getting too messy. It's accessed primarilly through terminal and uses basic comands to navigate, update and add/delete repositories.
 
