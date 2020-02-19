@@ -2,7 +2,7 @@
 
 A place for me to begin my code learning journey!
 
-| [Table of Contents](https://penjoe.github.io/learning-journal/) | [What is Markdown?](https://penjoe.github.io/learning-journal/markdown) | [Tools of the Trade](https://penjoe.github.io/learning-journal/coders-computer) | [Get Started with Git!](http://penjoe.github.io/learning-journal/git) | [HTML Structure](https://penjoe.github.io/learning-journal/html-structure) |
+| [Table of Contents](https://penjoe.github.io/learning-journal/) | [What is Markdown?](https://penjoe.github.io/learning-journal/markdown) | [Tools of the Trade](https://penjoe.github.io/learning-journal/coders-computer) | [Get Started with Git!](http://penjoe.github.io/learning-journal/git) | [HTML Structure](https://penjoe.github.io/learning-journal/html-structure) | [Styling with CSS](http://penjoe.github.io/learning-journal/css) |
 
 ## What Is Growth Mindset?
 
