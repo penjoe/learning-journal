@@ -1,5 +1,7 @@
 # Styling with CSS
 
+| [Table of Contents](https://penjoe.github.io/learning-journal/) | [Growth Mindset](https://penjoe.github.io/learning-journal/growth-mindset) | [What is Markdown?](https://penjoe.github.io/learning-journal/markdown)  |  [Tools of the Trade](https://penjoe.github.io/learning-journal/coders-computer) | [HTML Structure](https://penjoe.github.io/learning-journal/html-structure) | [Get started with Git](http://penjoe.github.io/learning-journal/git) |
+
 While HTML will give you the bones of a web page, CSS is used to make that web page presentable. CSS, which stands for Cascading Style Sheets, tells the browser what everything is supposed to look like. This is accomplished by selecting an element to style and then applying a ruleset, indicating how that element should be presented. Here's a quick example:
 ```
 body {
