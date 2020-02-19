@@ -1,6 +1,6 @@
 # Tools of the Trade
 
-| [Table of Contents](https://penjoe.github.io/learning-journal/) | [Growth Mindset](https://penjoe.github.io/learning-journal/growth-mindset) | [What is Markdown](https://penjoe.github.io/learning-journal/markdown) | [Get Started with Git!](http://penjoe.github.io/learning-journal/git) | [HTML Structure](https://penjoe.github.io/learning-journal/html-structure) |
+| [Table of Contents](https://penjoe.github.io/learning-journal/) | [Growth Mindset](https://penjoe.github.io/learning-journal/growth-mindset) | [What is Markdown](https://penjoe.github.io/learning-journal/markdown) | [Get Started with Git!](http://penjoe.github.io/learning-journal/git) | [HTML Structure](https://penjoe.github.io/learning-journal/html-structure) | [Styling with CSS](http://penjoe.github.io/learning-journal/css) |
 
 Modern developers use a wide array of tools, some that allow them to complete their tasks and some that add convenience and efficiency, and then some do both. One of the most fundamental tools in a developer's arsenal is a text editor. A text editor is exactly that - a program used to edit text. These come in all shapes and sizes. Some will be very bare bones and only allow the minimum. Others can be quite robust and be packed with lots of helpful and convenient features. There are essentially three types of text editors available to developers:
   1. General text editors such as notepad, Microsoft Word, Apple Pages and Google Docs. These can be used for basic coding, but they offer no support.
