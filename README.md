@@ -9,3 +9,4 @@ This is my Learning Journal. It's a place where I can explore the various facets
 * [Tools of the Trade](https://penjoe.github.io/learning-journal/coders-computer)
 * [Get Started with Git!](http://penjoe.github.io/learning-journal/git)
 * [HTML Structure](https://penjoe.github.io/learning-journal/html-structure)
+* [Styling with CSS](http://penjoe.github.io/learning-journal/css)
