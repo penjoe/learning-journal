@@ -10,3 +10,4 @@ This is my Learning Journal. It's a place where I can explore the various facets
 * [Get Started with Git!](http://penjoe.github.io/learning-journal/git)
 * [HTML Structure](https://penjoe.github.io/learning-journal/html-structure)
 * [Styling with CSS](http://penjoe.github.io/learning-journal/css)
+* [Computer Architecture and Logic](https://penjoe.github.io/learning-journal/comp-logic)
