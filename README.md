@@ -1,4 +1,4 @@
-# Joe's Journey to Coding!
+# Joe's Journey to Coding!!
 
 This is my Learning Journal. It's a place where I can explore the various facets of coding and document my journey into learning! Check out my [GitHub](https://github.com/penjoe) to follow along!
 
